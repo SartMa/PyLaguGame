@@ -46,7 +46,3 @@ Players can climb up and down ladders, with gravity disabled while grabbing a la
 - **Healthbar Class:** Manages health bars for players and enemies.
 - **Level Class:** Represents the game level; a new instance is created upon player loss, effectively resetting the level.
 
-## Conclusion
-Enjoy your adventurous journey in "In Search of a Lost Artifact"! Thank you for playing and celebrating our 1st anniversary with us. Here's to many more gaming experiences!
-
-**Happy 1st Anniversary! 🎉**
