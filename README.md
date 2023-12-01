@@ -1,7 +1,7 @@
-# In Search of a Lost Artifact
+# Aetherial Pursuit
 
 ## Introduction
-Welcome to "In Search of a Lost Artifact," an exciting platformer game that combines combat, exploration, and a captivating storyline. As a young knight, your mission is to retrieve a magical helmet now possessed by evil spirits. Embark on a journey through the ruins of your old capital, facing enemies, collecting keys, and ultimately confronting the golem to reclaim the powerful artifact.
+Welcome to "Aetherial Pursuit," an exciting platformer game that combines combat, exploration, and a captivating storyline. As a young knight, your mission is to retrieve a magical helmet now possessed by evil spirits. Embark on a journey through the ruins of your old capital, facing enemies, collecting keys, and ultimately confronting the golem to reclaim the powerful artifact.
 
 ## How to Run
 1. Ensure you have Python3 and pygame installed.
