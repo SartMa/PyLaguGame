@@ -13,6 +13,7 @@ Welcome to "In Search of a Lost Artifact," an exciting platformer game that comb
 
 ## Gameplay Instructions
 - Move Right/Left: Arrow keys
+- Space: Attack the enemy
 - Jump: Arrow key (Up)
 - Attack: Space
 - Grab Ladder: D
